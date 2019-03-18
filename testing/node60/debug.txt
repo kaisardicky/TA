@@ -1,0 +1,1147 @@
+
+2.556839  (1) - node 58 sending Route Request to node: 59
+2.556839  (2) - node 58 sending Route Request to node: 59, elapse time: 1.800000 ms
+2.557859  forward function
+2.557859  Position of node 54 is X =405.8840 and Y =44.5598
+2.557859  Updated Energy for node 54 is Energy 4.8721
+2.557859  recvRequest: in node 54, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 54, total_energi = 4.8721
+2.557859  forward function
+2.557859  Position of node 3 is X =449.0788 and Y =144.4681
+2.557859  Updated Energy for node 3 is Energy 4.8721
+2.557859  recvRequest: in node 3, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 3, total_energi = 4.8721
+2.557859  forward function
+2.557859  Position of node 13 is X =367.3631 and Y =106.0927
+2.557859  Updated Energy for node 13 is Energy 4.8721
+2.557859  recvRequest: in node 13, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 13, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 48 is X =447.5006 and Y =184.4946
+2.557860  Updated Energy for node 48 is Energy 4.8721
+2.557860  recvRequest: in node 48, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 48, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 36 is X =392.3250 and Y =163.7855
+2.557860  Updated Energy for node 36 is Energy 4.8721
+2.557860  recvRequest: in node 36, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 36, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 42 is X =468.7542 and Y =200.9745
+2.557860  Updated Energy for node 42 is Energy 4.8721
+2.557860  recvRequest: in node 42, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 42, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 9 is X =285.5800 and Y =37.6120
+2.557860  Updated Energy for node 9 is Energy 4.8721
+2.557860  recvRequest: in node 9, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 9, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 16 is X =329.1862 and Y =140.2371
+2.557860  Updated Energy for node 16 is Energy 4.8721
+2.557860  recvRequest: in node 16, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 16, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 22 is X =318.4192 and Y =148.8879
+2.557860  Updated Energy for node 22 is Energy 4.8721
+2.557860  recvRequest: in node 22, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 22, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 37 is X =265.5114 and Y =68.4398
+2.557860  Updated Energy for node 37 is Energy 4.8721
+2.557860  recvRequest: in node 37, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 37, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 14 is X =292.1711 and Y =142.7150
+2.557860  Updated Energy for node 14 is Energy 4.8721
+2.557860  recvRequest: in node 14, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 14, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 26 is X =394.2527 and Y =234.8433
+2.557860  Updated Energy for node 26 is Energy 4.8721
+2.557860  recvRequest: in node 26, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 26, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 44 is X =430.0501 and Y =248.7666
+2.557860  Updated Energy for node 44 is Energy 4.8721
+2.557860  recvRequest: in node 44, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 44, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 20 is X =243.9394 and Y =104.4020
+2.557860  Updated Energy for node 20 is Energy 4.8721
+2.557860  recvRequest: in node 20, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 20, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 4 is X =284.3348 and Y =181.7120
+2.557860  Updated Energy for node 4 is Energy 4.8721
+2.557860  recvRequest: in node 4, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 4, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 57 is X =232.5719 and Y =120.7904
+2.557860  Updated Energy for node 57 is Energy 4.8721
+2.557860  recvRequest: in node 57, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 57, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 12 is X =215.4242 and Y =73.3105
+2.557860  Updated Energy for node 12 is Energy 4.8721
+2.557860  recvRequest: in node 12, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 12, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 18 is X =215.6914 and Y =127.4426
+2.557860  Updated Energy for node 18 is Energy 4.8721
+2.557860  recvRequest: in node 18, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 18, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 30 is X =399.3782 and Y =295.6935
+2.557860  Updated Energy for node 30 is Energy 4.8721
+2.557860  recvRequest: in node 30, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 30, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 55 is X =439.3907 and Y =319.5518
+2.557860  Updated Energy for node 55 is Energy 4.8721
+2.557860  recvRequest: in node 55, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 55, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 29 is X =345.9963 and Y =288.4258
+2.557860  Updated Energy for node 29 is Energy 4.8721
+2.557860  recvRequest: in node 29, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 29, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 52 is X =167.2273 and Y =102.4067
+2.557860  Updated Energy for node 52 is Energy 4.8721
+2.557860  recvRequest: in node 52, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 52, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 1 is X =429.9530 and Y =358.8205
+2.557860  Updated Energy for node 1 is Energy 4.8721
+2.557860  recvRequest: in node 1, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 1, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 10 is X =244.2147 and Y =272.2068
+2.557860  Updated Energy for node 10 is Energy 4.8721
+2.557860  recvRequest: in node 10, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 10, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 33 is X =387.3976 and Y =364.3643
+2.557860  Updated Energy for node 33 is Energy 4.8721
+2.557860  recvRequest: in node 33, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 33, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 17 is X =114.4264 and Y =48.4464
+2.557860  Updated Energy for node 17 is Energy 4.8721
+2.557860  recvRequest: in node 17, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 17, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 32 is X =245.8574 and Y =297.0282
+2.557860  Updated Energy for node 32 is Energy 4.8721
+2.557860  recvRequest: in node 32, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 32, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 28 is X =213.3615 and Y =267.3781
+2.557860  Updated Energy for node 28 is Energy 4.8721
+2.557860  recvRequest: in node 28, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 28, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 53 is X =413.7685 and Y =388.0476
+2.557860  Updated Energy for node 53 is Energy 4.8721
+2.557860  recvRequest: in node 53, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 53, total_energi = 4.8721
+2.557860  forward function
+2.557860  Position of node 15 is X =293.8404 and Y =340.1465
+2.557860  Updated Energy for node 15 is Energy 4.8721
+2.557860  recvRequest: in node 15, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 15, total_energi = 4.8721
+2.559628  forward function
+2.559628  Position of node 41 is X =200.4542 and Y =288.5508
+2.559628  Updated Energy for node 41 is Energy 4.8720
+2.559628  recvRequest: in node 41, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 41, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 5 is X =153.8582 and Y =253.7871
+2.559628  Updated Energy for node 5 is Energy 4.8720
+2.559628  recvRequest: in node 5, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 5, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 47 is X =269.1600 and Y =329.5101
+2.559628  Updated Energy for node 47 is Energy 4.8720
+2.559628  recvRequest: in node 47, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 47, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 50 is X =92.7755 and Y =107.4791
+2.559628  Updated Energy for node 50 is Energy 4.8720
+2.559628  recvRequest: in node 50, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 50, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 56 is X =159.7329 and Y =308.4477
+2.559628  Updated Energy for node 56 is Energy 4.8720
+2.559628  recvRequest: in node 56, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 56, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 7 is X =74.3923 and Y =76.2997
+2.559628  Updated Energy for node 7 is Energy 4.8720
+2.559628  recvRequest: in node 7, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 7, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 49 is X =155.4546 and Y =327.6629
+2.559628  Updated Energy for node 49 is Energy 4.8720
+2.559628  recvRequest: in node 49, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 49, total_energi = 9.7440
+2.559628  forward function
+2.559628  Position of node 46 is X =74.8836 and Y =238.4098
+2.559628  Updated Energy for node 46 is Energy 4.8720
+2.559628  recvRequest: in node 46, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 46, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 43 is X =63.1296 and Y =27.8528
+2.559629  Updated Energy for node 43 is Energy 4.8720
+2.559629  recvRequest: in node 43, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 43, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 21 is X =120.1377 and Y =332.8161
+2.559629  Updated Energy for node 21 is Energy 4.8720
+2.559629  recvRequest: in node 21, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 21, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 27 is X =58.5578 and Y =265.3752
+2.559629  Updated Energy for node 27 is Energy 4.8720
+2.559629  recvRequest: in node 27, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 27, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 38 is X =194.2305 and Y =395.0776
+2.559629  Updated Energy for node 38 is Energy 4.8720
+2.559629  recvRequest: in node 38, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 38, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 19 is X =365.5872 and Y =405.1687
+2.559629  Updated Energy for node 19 is Energy 4.8720
+2.559629  recvRequest: in node 19, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 19, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 2 is X =225.2338 and Y =416.2624
+2.559629  Updated Energy for node 2 is Energy 4.8720
+2.559629  recvRequest: in node 2, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 2, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 8 is X =61.7627 and Y =311.0823
+2.559629  Updated Energy for node 8 is Energy 4.8720
+2.559629  recvRequest: in node 8, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 8, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 0 is X =344.9955 and Y =428.0953
+2.559629  Updated Energy for node 0 is Energy 4.8720
+2.559629  recvRequest: in node 0, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 0, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 31 is X =198.4441 and Y =418.6891
+2.559629  Updated Energy for node 31 is Energy 4.8720
+2.559629  recvRequest: in node 31, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 31, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 35 is X =78.5380 and Y =346.1335
+2.559629  Updated Energy for node 35 is Energy 4.8720
+2.559629  recvRequest: in node 35, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 35, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 51 is X =190.1870 and Y =428.7176
+2.559629  Updated Energy for node 51 is Energy 4.8720
+2.559629  recvRequest: in node 51, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 51, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 34 is X =56.0511 and Y =356.9045
+2.559629  Updated Energy for node 34 is Energy 4.8720
+2.559629  recvRequest: in node 34, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 34, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 25 is X =260.3990 and Y =468.5019
+2.559629  Updated Energy for node 25 is Energy 4.8720
+2.559629  recvRequest: in node 25, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 25, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 6 is X =360.4360 and Y =470.3449
+2.559629  Updated Energy for node 6 is Energy 4.8720
+2.559629  recvRequest: in node 6, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 6, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 24 is X =130.0181 and Y =440.2711
+2.559629  Updated Energy for node 24 is Energy 4.8720
+2.559629  recvRequest: in node 24, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 24, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 11 is X =73.5847 and Y =414.8376
+2.559629  Updated Energy for node 11 is Energy 4.8720
+2.559629  recvRequest: in node 11, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 11, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 45 is X =485.9590 and Y =433.2277
+2.559629  Updated Energy for node 45 is Energy 4.8720
+2.559629  recvRequest: in node 45, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 45, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 23 is X =3.6743 and Y =381.8168
+2.559629  Updated Energy for node 23 is Energy 4.8720
+2.559629  recvRequest: in node 23, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 23, total_energi = 9.7440
+2.559629  forward function
+2.559629  Position of node 40 is X =73.9762 and Y =452.5257
+2.559629  Updated Energy for node 40 is Energy 4.8720
+2.559629  recvRequest: in node 40, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 40, total_energi = 9.7440
+2.561610  forward function
+2.561610  Position of node 39 is X =37.5717 and Y =466.2293
+2.561610  Updated Energy for node 39 is Energy 4.8719
+2.561610  recvRequest: in node 39, packet from node 58 to node destination 59
+2.561610  recvRequest: in node 39, total_energi = 14.6159
+2.562660  sendReply function
+2.562660  sending Reply from node 59 to node 58
+2.562660  recvRequest: in node 59, packet from node 58 to node destination 59
+2.562660  recvRequest: in node 59, total_energi = 14.6159
+2.562660  recvRequest function
+2.562660  node 59 - recvRequest: destination sending reply
+2.563630  sendReply function
+2.563630  sending Reply from node 59 to node 58
+2.563630  recvRequest: in node 59, packet from node 58 to node destination 59
+2.563630  recvRequest: in node 59, total_energi = 14.6158
+2.563630  recvRequest function
+2.563630  node 59 - recvRequest: destination sending reply
+2.565719  sendReply function
+2.565719  sending Reply from node 59 to node 58
+2.565719  recvRequest: in node 59, packet from node 58 to node destination 59
+2.565719  recvRequest: in node 59, total_energi = 14.6154
+2.565719  recvRequest function
+2.565719  node 59 - recvRequest: destination sending reply
+2.570747  sendReply function
+2.570747  sending Reply from node 59 to node 58
+2.570747  recvRequest: in node 59, packet from node 58 to node destination 59
+2.570747  recvRequest: in node 59, total_energi = 14.6148
+2.570747  recvRequest function
+2.570747  node 59 - recvRequest: destination sending reply
+2.571777  sendReply function
+2.571777  sending Reply from node 59 to node 58
+2.571777  recvRequest: in node 59, packet from node 58 to node destination 59
+2.571777  recvRequest: in node 59, total_energi = 14.6147
+2.571777  recvRequest function
+2.571777  node 59 - recvRequest: destination sending reply
+2.575437  sendReply function
+2.575437  sending Reply from node 59 to node 58
+2.575437  recvRequest: in node 59, packet from node 58 to node destination 59
+2.575437  recvRequest: in node 59, total_energi = 14.6142
+2.575437  recvRequest function
+2.575437  node 59 - recvRequest: destination sending reply
+2.576467  sendReply function
+2.576467  sending Reply from node 59 to node 58
+2.576467  recvRequest: in node 59, packet from node 58 to node destination 59
+2.576467  recvRequest: in node 59, total_energi = 19.4860
+2.576467  recvRequest function
+2.576467  node 59 - recvRequest: destination sending reply
+2.577538  sendReply function
+2.577538  sending Reply from node 59 to node 58
+2.577538  recvRequest: in node 59, packet from node 58 to node destination 59
+2.577538  recvRequest: in node 59, total_energi = 14.6140
+2.577538  recvRequest function
+2.577538  node 59 - recvRequest: destination sending reply
+2.578570  sendReply function
+2.578570  sending Reply from node 59 to node 58
+2.578570  recvRequest: in node 59, packet from node 58 to node destination 59
+2.578570  recvRequest: in node 59, total_energi = 14.6139
+2.578570  recvRequest function
+2.578570  node 59 - recvRequest: destination sending reply
+2.580835  sendReply function
+2.580835  sending Reply from node 59 to node 58
+2.580835  recvRequest: in node 59, packet from node 58 to node destination 59
+2.580835  recvRequest: in node 59, total_energi = 9.7417
+2.580835  recvRequest function
+2.580835  node 59 - recvRequest: destination sending reply
+2.587264  sendReply function
+2.587264  sending Reply from node 59 to node 58
+2.587264  recvRequest: in node 59, packet from node 58 to node destination 59
+2.587264  recvRequest: in node 59, total_energi = 14.6127
+2.587264  recvRequest function
+2.587264  node 59 - recvRequest: destination sending reply
+2.591995  sendReply function
+2.591995  sending Reply from node 59 to node 58
+2.591995  recvRequest: in node 59, packet from node 58 to node destination 59
+2.591995  recvRequest: in node 59, total_energi = 9.7400
+2.591995  recvRequest function
+2.591995  node 59 - recvRequest: destination sending reply
+2.593085  sendReply function
+2.593085  sending Reply from node 59 to node 58
+2.593085  recvRequest: in node 59, packet from node 58 to node destination 59
+2.593085  recvRequest: in node 59, total_energi = 14.6119
+2.593085  recvRequest function
+2.593085  node 59 - recvRequest: destination sending reply
+2.594035  sendReply function
+2.594035  sending Reply from node 59 to node 58
+2.594035  recvRequest: in node 59, packet from node 58 to node destination 59
+2.594035  recvRequest: in node 59, total_energi = 14.6118
+2.594035  recvRequest function
+2.594035  node 59 - recvRequest: destination sending reply
+2.594986  sendReply function
+2.594986  sending Reply from node 59 to node 58
+2.594986  recvRequest: in node 59, packet from node 58 to node destination 59
+2.594986  recvRequest: in node 59, total_energi = 14.6117
+2.594986  recvRequest function
+2.594986  node 59 - recvRequest: destination sending reply
+2.556839  (1) - node 58 sending Route Request to node: 59
+2.556839  (2) - node 58 sending Route Request to node: 59, elapse time: 1.800000 ms
+2.557859  forward function
+2.557859  Position of node 54 is X =405.8840 and Y =44.5598
+2.557859  Updated Energy for node 54 is Energy 48.7206
+2.557859  recvRequest: in node 54, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 54, total_energi = 48.7206
+2.557859  forward function
+2.557859  Position of node 3 is X =449.0788 and Y =144.4681
+2.557859  Updated Energy for node 3 is Energy 48.7206
+2.557859  recvRequest: in node 3, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 3, total_energi = 48.7206
+2.557859  forward function
+2.557859  Position of node 13 is X =367.3631 and Y =106.0927
+2.557859  Updated Energy for node 13 is Energy 48.7206
+2.557859  recvRequest: in node 13, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 13, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 48 is X =447.5006 and Y =184.4946
+2.557860  Updated Energy for node 48 is Energy 48.7206
+2.557860  recvRequest: in node 48, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 48, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 36 is X =392.3250 and Y =163.7855
+2.557860  Updated Energy for node 36 is Energy 48.7206
+2.557860  recvRequest: in node 36, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 36, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 42 is X =468.7542 and Y =200.9745
+2.557860  Updated Energy for node 42 is Energy 48.7206
+2.557860  recvRequest: in node 42, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 42, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 9 is X =285.5800 and Y =37.6120
+2.557860  Updated Energy for node 9 is Energy 48.7206
+2.557860  recvRequest: in node 9, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 9, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 16 is X =329.1862 and Y =140.2371
+2.557860  Updated Energy for node 16 is Energy 48.7206
+2.557860  recvRequest: in node 16, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 16, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 22 is X =318.4192 and Y =148.8879
+2.557860  Updated Energy for node 22 is Energy 48.7206
+2.557860  recvRequest: in node 22, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 22, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 37 is X =265.5114 and Y =68.4398
+2.557860  Updated Energy for node 37 is Energy 48.7206
+2.557860  recvRequest: in node 37, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 37, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 14 is X =292.1711 and Y =142.7150
+2.557860  Updated Energy for node 14 is Energy 48.7206
+2.557860  recvRequest: in node 14, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 14, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 26 is X =394.2527 and Y =234.8433
+2.557860  Updated Energy for node 26 is Energy 48.7206
+2.557860  recvRequest: in node 26, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 26, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 44 is X =430.0501 and Y =248.7666
+2.557860  Updated Energy for node 44 is Energy 48.7206
+2.557860  recvRequest: in node 44, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 44, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 20 is X =243.9394 and Y =104.4020
+2.557860  Updated Energy for node 20 is Energy 48.7206
+2.557860  recvRequest: in node 20, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 20, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 4 is X =284.3348 and Y =181.7120
+2.557860  Updated Energy for node 4 is Energy 48.7206
+2.557860  recvRequest: in node 4, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 4, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 57 is X =232.5719 and Y =120.7904
+2.557860  Updated Energy for node 57 is Energy 48.7206
+2.557860  recvRequest: in node 57, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 57, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 12 is X =215.4242 and Y =73.3105
+2.557860  Updated Energy for node 12 is Energy 48.7206
+2.557860  recvRequest: in node 12, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 12, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 18 is X =215.6914 and Y =127.4426
+2.557860  Updated Energy for node 18 is Energy 48.7206
+2.557860  recvRequest: in node 18, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 18, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 30 is X =399.3782 and Y =295.6935
+2.557860  Updated Energy for node 30 is Energy 48.7206
+2.557860  recvRequest: in node 30, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 30, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 55 is X =439.3907 and Y =319.5518
+2.557860  Updated Energy for node 55 is Energy 48.7206
+2.557860  recvRequest: in node 55, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 55, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 29 is X =345.9963 and Y =288.4258
+2.557860  Updated Energy for node 29 is Energy 48.7206
+2.557860  recvRequest: in node 29, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 29, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 52 is X =167.2273 and Y =102.4067
+2.557860  Updated Energy for node 52 is Energy 48.7206
+2.557860  recvRequest: in node 52, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 52, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 1 is X =429.9530 and Y =358.8205
+2.557860  Updated Energy for node 1 is Energy 48.7206
+2.557860  recvRequest: in node 1, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 1, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 10 is X =244.2147 and Y =272.2068
+2.557860  Updated Energy for node 10 is Energy 48.7206
+2.557860  recvRequest: in node 10, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 10, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 33 is X =387.3976 and Y =364.3643
+2.557860  Updated Energy for node 33 is Energy 48.7206
+2.557860  recvRequest: in node 33, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 33, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 17 is X =114.4264 and Y =48.4464
+2.557860  Updated Energy for node 17 is Energy 48.7206
+2.557860  recvRequest: in node 17, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 17, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 32 is X =245.8574 and Y =297.0282
+2.557860  Updated Energy for node 32 is Energy 48.7206
+2.557860  recvRequest: in node 32, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 32, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 28 is X =213.3615 and Y =267.3781
+2.557860  Updated Energy for node 28 is Energy 48.7206
+2.557860  recvRequest: in node 28, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 28, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 53 is X =413.7685 and Y =388.0476
+2.557860  Updated Energy for node 53 is Energy 48.7206
+2.557860  recvRequest: in node 53, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 53, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 15 is X =293.8404 and Y =340.1465
+2.557860  Updated Energy for node 15 is Energy 48.7206
+2.557860  recvRequest: in node 15, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 15, total_energi = 48.7206
+2.559628  forward function
+2.559628  Position of node 41 is X =200.4542 and Y =288.5508
+2.559628  Updated Energy for node 41 is Energy 48.7198
+2.559628  recvRequest: in node 41, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 41, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 5 is X =153.8582 and Y =253.7871
+2.559628  Updated Energy for node 5 is Energy 48.7198
+2.559628  recvRequest: in node 5, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 5, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 47 is X =269.1600 and Y =329.5101
+2.559628  Updated Energy for node 47 is Energy 48.7198
+2.559628  recvRequest: in node 47, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 47, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 50 is X =92.7755 and Y =107.4791
+2.559628  Updated Energy for node 50 is Energy 48.7198
+2.559628  recvRequest: in node 50, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 50, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 56 is X =159.7329 and Y =308.4477
+2.559628  Updated Energy for node 56 is Energy 48.7198
+2.559628  recvRequest: in node 56, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 56, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 7 is X =74.3923 and Y =76.2997
+2.559628  Updated Energy for node 7 is Energy 48.7198
+2.559628  recvRequest: in node 7, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 7, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 49 is X =155.4546 and Y =327.6629
+2.559628  Updated Energy for node 49 is Energy 48.7198
+2.559628  recvRequest: in node 49, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 49, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 46 is X =74.8836 and Y =238.4098
+2.559628  Updated Energy for node 46 is Energy 48.7198
+2.559628  recvRequest: in node 46, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 46, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 43 is X =63.1296 and Y =27.8528
+2.559629  Updated Energy for node 43 is Energy 48.7198
+2.559629  recvRequest: in node 43, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 43, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 21 is X =120.1377 and Y =332.8161
+2.559629  Updated Energy for node 21 is Energy 48.7198
+2.559629  recvRequest: in node 21, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 21, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 27 is X =58.5578 and Y =265.3752
+2.559629  Updated Energy for node 27 is Energy 48.7198
+2.559629  recvRequest: in node 27, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 27, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 38 is X =194.2305 and Y =395.0776
+2.559629  Updated Energy for node 38 is Energy 48.7198
+2.559629  recvRequest: in node 38, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 38, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 19 is X =365.5872 and Y =405.1687
+2.559629  Updated Energy for node 19 is Energy 48.7198
+2.559629  recvRequest: in node 19, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 19, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 2 is X =225.2338 and Y =416.2624
+2.559629  Updated Energy for node 2 is Energy 48.7198
+2.559629  recvRequest: in node 2, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 2, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 8 is X =61.7627 and Y =311.0823
+2.559629  Updated Energy for node 8 is Energy 48.7198
+2.559629  recvRequest: in node 8, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 8, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 0 is X =344.9955 and Y =428.0953
+2.559629  Updated Energy for node 0 is Energy 48.7198
+2.559629  recvRequest: in node 0, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 0, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 31 is X =198.4441 and Y =418.6891
+2.559629  Updated Energy for node 31 is Energy 48.7198
+2.559629  recvRequest: in node 31, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 31, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 35 is X =78.5380 and Y =346.1335
+2.559629  Updated Energy for node 35 is Energy 48.7198
+2.559629  recvRequest: in node 35, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 35, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 51 is X =190.1870 and Y =428.7176
+2.559629  Updated Energy for node 51 is Energy 48.7198
+2.559629  recvRequest: in node 51, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 51, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 34 is X =56.0511 and Y =356.9045
+2.559629  Updated Energy for node 34 is Energy 48.7198
+2.559629  recvRequest: in node 34, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 34, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 25 is X =260.3990 and Y =468.5019
+2.559629  Updated Energy for node 25 is Energy 48.7198
+2.559629  recvRequest: in node 25, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 25, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 6 is X =360.4360 and Y =470.3449
+2.559629  Updated Energy for node 6 is Energy 48.7198
+2.559629  recvRequest: in node 6, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 6, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 24 is X =130.0181 and Y =440.2711
+2.559629  Updated Energy for node 24 is Energy 48.7198
+2.559629  recvRequest: in node 24, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 24, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 11 is X =73.5847 and Y =414.8376
+2.559629  Updated Energy for node 11 is Energy 48.7198
+2.559629  recvRequest: in node 11, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 11, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 45 is X =485.9590 and Y =433.2277
+2.559629  Updated Energy for node 45 is Energy 48.7198
+2.559629  recvRequest: in node 45, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 45, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 23 is X =3.6743 and Y =381.8168
+2.559629  Updated Energy for node 23 is Energy 48.7198
+2.559629  recvRequest: in node 23, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 23, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 40 is X =73.9762 and Y =452.5257
+2.559629  Updated Energy for node 40 is Energy 48.7198
+2.559629  recvRequest: in node 40, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 40, total_energi = 97.4404
+2.561610  forward function
+2.561610  Position of node 39 is X =37.5717 and Y =466.2293
+2.561610  Updated Energy for node 39 is Energy 48.7188
+2.561610  recvRequest: in node 39, packet from node 58 to node destination 59
+2.561610  recvRequest: in node 39, total_energi = 146.1592
+2.562660  sendReply function
+2.562660  sending Reply from node 59 to node 58
+2.562660  recvRequest: in node 59, packet from node 58 to node destination 59
+2.562660  recvRequest: in node 59, total_energi = 146.1586
+2.562660  recvRequest function
+2.562660  node 59 - recvRequest: destination sending reply
+2.563630  sendReply function
+2.563630  sending Reply from node 59 to node 58
+2.563630  recvRequest: in node 59, packet from node 58 to node destination 59
+2.563630  recvRequest: in node 59, total_energi = 146.1577
+2.563630  recvRequest function
+2.563630  node 59 - recvRequest: destination sending reply
+2.565719  sendReply function
+2.565719  sending Reply from node 59 to node 58
+2.565719  recvRequest: in node 59, packet from node 58 to node destination 59
+2.565719  recvRequest: in node 59, total_energi = 146.1543
+2.565719  recvRequest function
+2.565719  node 59 - recvRequest: destination sending reply
+2.570747  sendReply function
+2.570747  sending Reply from node 59 to node 58
+2.570747  recvRequest: in node 59, packet from node 58 to node destination 59
+2.570747  recvRequest: in node 59, total_energi = 146.1475
+2.570747  recvRequest function
+2.570747  node 59 - recvRequest: destination sending reply
+2.571777  sendReply function
+2.571777  sending Reply from node 59 to node 58
+2.571777  recvRequest: in node 59, packet from node 58 to node destination 59
+2.571777  recvRequest: in node 59, total_energi = 146.1465
+2.571777  recvRequest function
+2.571777  node 59 - recvRequest: destination sending reply
+2.575437  sendReply function
+2.575437  sending Reply from node 59 to node 58
+2.575437  recvRequest: in node 59, packet from node 58 to node destination 59
+2.575437  recvRequest: in node 59, total_energi = 146.1419
+2.575437  recvRequest function
+2.575437  node 59 - recvRequest: destination sending reply
+2.576467  sendReply function
+2.576467  sending Reply from node 59 to node 58
+2.576467  recvRequest: in node 59, packet from node 58 to node destination 59
+2.576467  recvRequest: in node 59, total_energi = 194.8597
+2.576467  recvRequest function
+2.576467  node 59 - recvRequest: destination sending reply
+2.577538  sendReply function
+2.577538  sending Reply from node 59 to node 58
+2.577538  recvRequest: in node 59, packet from node 58 to node destination 59
+2.577538  recvRequest: in node 59, total_energi = 146.1400
+2.577538  recvRequest function
+2.577538  node 59 - recvRequest: destination sending reply
+2.578570  sendReply function
+2.578570  sending Reply from node 59 to node 58
+2.578570  recvRequest: in node 59, packet from node 58 to node destination 59
+2.578570  recvRequest: in node 59, total_energi = 146.1390
+2.578570  recvRequest function
+2.578570  node 59 - recvRequest: destination sending reply
+2.580835  sendReply function
+2.580835  sending Reply from node 59 to node 58
+2.580835  recvRequest: in node 59, packet from node 58 to node destination 59
+2.580835  recvRequest: in node 59, total_energi = 97.4173
+2.580835  recvRequest function
+2.580835  node 59 - recvRequest: destination sending reply
+2.587264  sendReply function
+2.587264  sending Reply from node 59 to node 58
+2.587264  recvRequest: in node 59, packet from node 58 to node destination 59
+2.587264  recvRequest: in node 59, total_energi = 146.1270
+2.587264  recvRequest function
+2.587264  node 59 - recvRequest: destination sending reply
+2.591995  sendReply function
+2.591995  sending Reply from node 59 to node 58
+2.591995  recvRequest: in node 59, packet from node 58 to node destination 59
+2.591995  recvRequest: in node 59, total_energi = 97.4002
+2.591995  recvRequest function
+2.591995  node 59 - recvRequest: destination sending reply
+2.593085  sendReply function
+2.593085  sending Reply from node 59 to node 58
+2.593085  recvRequest: in node 59, packet from node 58 to node destination 59
+2.593085  recvRequest: in node 59, total_energi = 146.1190
+2.593085  recvRequest function
+2.593085  node 59 - recvRequest: destination sending reply
+2.594035  sendReply function
+2.594035  sending Reply from node 59 to node 58
+2.594035  recvRequest: in node 59, packet from node 58 to node destination 59
+2.594035  recvRequest: in node 59, total_energi = 146.1180
+2.594035  recvRequest function
+2.594035  node 59 - recvRequest: destination sending reply
+2.594986  sendReply function
+2.594986  sending Reply from node 59 to node 58
+2.594986  recvRequest: in node 59, packet from node 58 to node destination 59
+2.594986  recvRequest: in node 59, total_energi = 146.1171
+2.594986  recvRequest function
+2.594986  node 59 - recvRequest: destination sending reply
+2.556839  (1) - node 58 sending Route Request to node: 59
+2.556839  (2) - node 58 sending Route Request to node: 59, elapse time: 1.800000 ms
+2.557859  forward function
+2.557859  Position of node 54 is X =405.8840 and Y =44.5598
+2.557859  Updated Energy for node 54 is Energy 48.7206
+2.557859  recvRequest: in node 54, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 54, total_energi = 48.7206
+2.557859  forward function
+2.557859  Position of node 3 is X =449.0788 and Y =144.4681
+2.557859  Updated Energy for node 3 is Energy 48.7206
+2.557859  recvRequest: in node 3, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 3, total_energi = 48.7206
+2.557859  forward function
+2.557859  Position of node 13 is X =367.3631 and Y =106.0927
+2.557859  Updated Energy for node 13 is Energy 48.7206
+2.557859  recvRequest: in node 13, packet from node 58 to node destination 59
+2.557859  recvRequest: in node 13, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 48 is X =447.5006 and Y =184.4946
+2.557860  Updated Energy for node 48 is Energy 48.7206
+2.557860  recvRequest: in node 48, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 48, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 36 is X =392.3250 and Y =163.7855
+2.557860  Updated Energy for node 36 is Energy 48.7206
+2.557860  recvRequest: in node 36, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 36, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 42 is X =468.7542 and Y =200.9745
+2.557860  Updated Energy for node 42 is Energy 48.7206
+2.557860  recvRequest: in node 42, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 42, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 9 is X =285.5800 and Y =37.6120
+2.557860  Updated Energy for node 9 is Energy 48.7206
+2.557860  recvRequest: in node 9, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 9, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 16 is X =329.1862 and Y =140.2371
+2.557860  Updated Energy for node 16 is Energy 48.7206
+2.557860  recvRequest: in node 16, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 16, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 22 is X =318.4192 and Y =148.8879
+2.557860  Updated Energy for node 22 is Energy 48.7206
+2.557860  recvRequest: in node 22, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 22, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 37 is X =265.5114 and Y =68.4398
+2.557860  Updated Energy for node 37 is Energy 48.7206
+2.557860  recvRequest: in node 37, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 37, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 14 is X =292.1711 and Y =142.7150
+2.557860  Updated Energy for node 14 is Energy 48.7206
+2.557860  recvRequest: in node 14, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 14, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 26 is X =394.2527 and Y =234.8433
+2.557860  Updated Energy for node 26 is Energy 48.7206
+2.557860  recvRequest: in node 26, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 26, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 44 is X =430.0501 and Y =248.7666
+2.557860  Updated Energy for node 44 is Energy 48.7206
+2.557860  recvRequest: in node 44, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 44, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 20 is X =243.9394 and Y =104.4020
+2.557860  Updated Energy for node 20 is Energy 48.7206
+2.557860  recvRequest: in node 20, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 20, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 4 is X =284.3348 and Y =181.7120
+2.557860  Updated Energy for node 4 is Energy 48.7206
+2.557860  recvRequest: in node 4, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 4, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 57 is X =232.5719 and Y =120.7904
+2.557860  Updated Energy for node 57 is Energy 48.7206
+2.557860  recvRequest: in node 57, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 57, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 12 is X =215.4242 and Y =73.3105
+2.557860  Updated Energy for node 12 is Energy 48.7206
+2.557860  recvRequest: in node 12, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 12, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 18 is X =215.6914 and Y =127.4426
+2.557860  Updated Energy for node 18 is Energy 48.7206
+2.557860  recvRequest: in node 18, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 18, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 30 is X =399.3782 and Y =295.6935
+2.557860  Updated Energy for node 30 is Energy 48.7206
+2.557860  recvRequest: in node 30, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 30, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 55 is X =439.3907 and Y =319.5518
+2.557860  Updated Energy for node 55 is Energy 48.7206
+2.557860  recvRequest: in node 55, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 55, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 29 is X =345.9963 and Y =288.4258
+2.557860  Updated Energy for node 29 is Energy 48.7206
+2.557860  recvRequest: in node 29, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 29, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 52 is X =167.2273 and Y =102.4067
+2.557860  Updated Energy for node 52 is Energy 48.7206
+2.557860  recvRequest: in node 52, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 52, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 1 is X =429.9530 and Y =358.8205
+2.557860  Updated Energy for node 1 is Energy 48.7206
+2.557860  recvRequest: in node 1, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 1, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 10 is X =244.2147 and Y =272.2068
+2.557860  Updated Energy for node 10 is Energy 48.7206
+2.557860  recvRequest: in node 10, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 10, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 33 is X =387.3976 and Y =364.3643
+2.557860  Updated Energy for node 33 is Energy 48.7206
+2.557860  recvRequest: in node 33, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 33, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 17 is X =114.4264 and Y =48.4464
+2.557860  Updated Energy for node 17 is Energy 48.7206
+2.557860  recvRequest: in node 17, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 17, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 32 is X =245.8574 and Y =297.0282
+2.557860  Updated Energy for node 32 is Energy 48.7206
+2.557860  recvRequest: in node 32, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 32, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 28 is X =213.3615 and Y =267.3781
+2.557860  Updated Energy for node 28 is Energy 48.7206
+2.557860  recvRequest: in node 28, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 28, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 53 is X =413.7685 and Y =388.0476
+2.557860  Updated Energy for node 53 is Energy 48.7206
+2.557860  recvRequest: in node 53, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 53, total_energi = 48.7206
+2.557860  forward function
+2.557860  Position of node 15 is X =293.8404 and Y =340.1465
+2.557860  Updated Energy for node 15 is Energy 48.7206
+2.557860  recvRequest: in node 15, packet from node 58 to node destination 59
+2.557860  recvRequest: in node 15, total_energi = 48.7206
+2.559628  forward function
+2.559628  Position of node 41 is X =200.4542 and Y =288.5508
+2.559628  Updated Energy for node 41 is Energy 48.7198
+2.559628  recvRequest: in node 41, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 41, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 5 is X =153.8582 and Y =253.7871
+2.559628  Updated Energy for node 5 is Energy 48.7198
+2.559628  recvRequest: in node 5, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 5, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 47 is X =269.1600 and Y =329.5101
+2.559628  Updated Energy for node 47 is Energy 48.7198
+2.559628  recvRequest: in node 47, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 47, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 50 is X =92.7755 and Y =107.4791
+2.559628  Updated Energy for node 50 is Energy 48.7198
+2.559628  recvRequest: in node 50, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 50, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 56 is X =159.7329 and Y =308.4477
+2.559628  Updated Energy for node 56 is Energy 48.7198
+2.559628  recvRequest: in node 56, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 56, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 7 is X =74.3923 and Y =76.2997
+2.559628  Updated Energy for node 7 is Energy 48.7198
+2.559628  recvRequest: in node 7, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 7, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 49 is X =155.4546 and Y =327.6629
+2.559628  Updated Energy for node 49 is Energy 48.7198
+2.559628  recvRequest: in node 49, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 49, total_energi = 97.4404
+2.559628  forward function
+2.559628  Position of node 46 is X =74.8836 and Y =238.4098
+2.559628  Updated Energy for node 46 is Energy 48.7198
+2.559628  recvRequest: in node 46, packet from node 58 to node destination 59
+2.559628  recvRequest: in node 46, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 43 is X =63.1296 and Y =27.8528
+2.559629  Updated Energy for node 43 is Energy 48.7198
+2.559629  recvRequest: in node 43, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 43, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 21 is X =120.1377 and Y =332.8161
+2.559629  Updated Energy for node 21 is Energy 48.7198
+2.559629  recvRequest: in node 21, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 21, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 27 is X =58.5578 and Y =265.3752
+2.559629  Updated Energy for node 27 is Energy 48.7198
+2.559629  recvRequest: in node 27, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 27, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 38 is X =194.2305 and Y =395.0776
+2.559629  Updated Energy for node 38 is Energy 48.7198
+2.559629  recvRequest: in node 38, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 38, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 19 is X =365.5872 and Y =405.1687
+2.559629  Updated Energy for node 19 is Energy 48.7198
+2.559629  recvRequest: in node 19, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 19, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 2 is X =225.2338 and Y =416.2624
+2.559629  Updated Energy for node 2 is Energy 48.7198
+2.559629  recvRequest: in node 2, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 2, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 8 is X =61.7627 and Y =311.0823
+2.559629  Updated Energy for node 8 is Energy 48.7198
+2.559629  recvRequest: in node 8, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 8, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 0 is X =344.9955 and Y =428.0953
+2.559629  Updated Energy for node 0 is Energy 48.7198
+2.559629  recvRequest: in node 0, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 0, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 31 is X =198.4441 and Y =418.6891
+2.559629  Updated Energy for node 31 is Energy 48.7198
+2.559629  recvRequest: in node 31, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 31, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 35 is X =78.5380 and Y =346.1335
+2.559629  Updated Energy for node 35 is Energy 48.7198
+2.559629  recvRequest: in node 35, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 35, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 51 is X =190.1870 and Y =428.7176
+2.559629  Updated Energy for node 51 is Energy 48.7198
+2.559629  recvRequest: in node 51, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 51, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 34 is X =56.0511 and Y =356.9045
+2.559629  Updated Energy for node 34 is Energy 48.7198
+2.559629  recvRequest: in node 34, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 34, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 25 is X =260.3990 and Y =468.5019
+2.559629  Updated Energy for node 25 is Energy 48.7198
+2.559629  recvRequest: in node 25, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 25, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 6 is X =360.4360 and Y =470.3449
+2.559629  Updated Energy for node 6 is Energy 48.7198
+2.559629  recvRequest: in node 6, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 6, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 24 is X =130.0181 and Y =440.2711
+2.559629  Updated Energy for node 24 is Energy 48.7198
+2.559629  recvRequest: in node 24, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 24, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 11 is X =73.5847 and Y =414.8376
+2.559629  Updated Energy for node 11 is Energy 48.7198
+2.559629  recvRequest: in node 11, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 11, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 45 is X =485.9590 and Y =433.2277
+2.559629  Updated Energy for node 45 is Energy 48.7198
+2.559629  recvRequest: in node 45, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 45, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 23 is X =3.6743 and Y =381.8168
+2.559629  Updated Energy for node 23 is Energy 48.7198
+2.559629  recvRequest: in node 23, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 23, total_energi = 97.4404
+2.559629  forward function
+2.559629  Position of node 40 is X =73.9762 and Y =452.5257
+2.559629  Updated Energy for node 40 is Energy 48.7198
+2.559629  recvRequest: in node 40, packet from node 58 to node destination 59
+2.559629  recvRequest: in node 40, total_energi = 97.4404
+2.561610  forward function
+2.561610  Position of node 39 is X =37.5717 and Y =466.2293
+2.561610  Updated Energy for node 39 is Energy 48.7188
+2.561610  recvRequest: in node 39, packet from node 58 to node destination 59
+2.561610  recvRequest: in node 39, total_energi = 146.1592
+2.562660  sendReply function
+2.562660  sending Reply from node 59 to node 58
+2.562660  recvRequest: in node 59, packet from node 58 to node destination 59
+2.562660  recvRequest: in node 59, total_energi = 146.1586
+2.562660  recvRequest function
+2.562660  node 59 - recvRequest: destination sending reply
+2.563630  sendReply function
+2.563630  sending Reply from node 59 to node 58
+2.563630  recvRequest: in node 59, packet from node 58 to node destination 59
+2.563630  recvRequest: in node 59, total_energi = 146.1577
+2.563630  recvRequest function
+2.563630  node 59 - recvRequest: destination sending reply
+2.565719  sendReply function
+2.565719  sending Reply from node 59 to node 58
+2.565719  recvRequest: in node 59, packet from node 58 to node destination 59
+2.565719  recvRequest: in node 59, total_energi = 146.1543
+2.565719  recvRequest function
+2.565719  node 59 - recvRequest: destination sending reply
+2.570747  sendReply function
+2.570747  sending Reply from node 59 to node 58
+2.570747  recvRequest: in node 59, packet from node 58 to node destination 59
+2.570747  recvRequest: in node 59, total_energi = 146.1475
+2.570747  recvRequest function
+2.570747  node 59 - recvRequest: destination sending reply
+2.571777  sendReply function
+2.571777  sending Reply from node 59 to node 58
+2.571777  recvRequest: in node 59, packet from node 58 to node destination 59
+2.571777  recvRequest: in node 59, total_energi = 146.1465
+2.571777  recvRequest function
+2.571777  node 59 - recvRequest: destination sending reply
+2.575437  sendReply function
+2.575437  sending Reply from node 59 to node 58
+2.575437  recvRequest: in node 59, packet from node 58 to node destination 59
+2.575437  recvRequest: in node 59, total_energi = 146.1419
+2.575437  recvRequest function
+2.575437  node 59 - recvRequest: destination sending reply
+2.576467  sendReply function
+2.576467  sending Reply from node 59 to node 58
+2.576467  recvRequest: in node 59, packet from node 58 to node destination 59
+2.576467  recvRequest: in node 59, total_energi = 194.8597
+2.576467  recvRequest function
+2.576467  node 59 - recvRequest: destination sending reply
+2.577538  sendReply function
+2.577538  sending Reply from node 59 to node 58
+2.577538  recvRequest: in node 59, packet from node 58 to node destination 59
+2.577538  recvRequest: in node 59, total_energi = 146.1400
+2.577538  recvRequest function
+2.577538  node 59 - recvRequest: destination sending reply
+2.578570  sendReply function
+2.578570  sending Reply from node 59 to node 58
+2.578570  recvRequest: in node 59, packet from node 58 to node destination 59
+2.578570  recvRequest: in node 59, total_energi = 146.1390
+2.578570  recvRequest function
+2.578570  node 59 - recvRequest: destination sending reply
+2.580835  sendReply function
+2.580835  sending Reply from node 59 to node 58
+2.580835  recvRequest: in node 59, packet from node 58 to node destination 59
+2.580835  recvRequest: in node 59, total_energi = 97.4173
+2.580835  recvRequest function
+2.580835  node 59 - recvRequest: destination sending reply
+2.587264  sendReply function
+2.587264  sending Reply from node 59 to node 58
+2.587264  recvRequest: in node 59, packet from node 58 to node destination 59
+2.587264  recvRequest: in node 59, total_energi = 146.1270
+2.587264  recvRequest function
+2.587264  node 59 - recvRequest: destination sending reply
+2.591995  sendReply function
+2.591995  sending Reply from node 59 to node 58
+2.591995  recvRequest: in node 59, packet from node 58 to node destination 59
+2.591995  recvRequest: in node 59, total_energi = 97.4002
+2.591995  recvRequest function
+2.591995  node 59 - recvRequest: destination sending reply
+2.593085  sendReply function
+2.593085  sending Reply from node 59 to node 58
+2.593085  recvRequest: in node 59, packet from node 58 to node destination 59
+2.593085  recvRequest: in node 59, total_energi = 146.1190
+2.593085  recvRequest function
+2.593085  node 59 - recvRequest: destination sending reply
+2.594035  sendReply function
+2.594035  sending Reply from node 59 to node 58
+2.594035  recvRequest: in node 59, packet from node 58 to node destination 59
+2.594035  recvRequest: in node 59, total_energi = 146.1180
+2.594035  recvRequest function
+2.594035  node 59 - recvRequest: destination sending reply
+2.594986  sendReply function
+2.594986  sending Reply from node 59 to node 58
+2.594986  recvRequest: in node 59, packet from node 58 to node destination 59
+2.594986  recvRequest: in node 59, total_energi = 146.1171
+2.594986  recvRequest function
+2.594986  node 59 - recvRequest: destination sending reply
