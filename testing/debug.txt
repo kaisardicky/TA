@@ -1,0 +1,56 @@
+
+2.556839  (1) - node 8 sending Route Request to node: 9
+2.557859 recvRequest recvRequest: sedang pada node : 6 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 6, forwarding from 0 to 1
+2.557859 recvRequest recvRequest: sedang pada node : 5 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 5, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 1 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 1, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 2 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 2, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 4 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 4, forwarding from 0 to 1
+2.556839  (1) - node 8 sending Route Request to node: 9
+2.557859 recvRequest recvRequest: sedang pada node : 6 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 6, forwarding from 0 to 1
+2.557859 recvRequest recvRequest: sedang pada node : 5 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 5, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 1 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 1, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 2 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 2, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 4 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 4, forwarding from 0 to 1
+2.556839  (1) - node 8 sending Route Request to node: 9
+2.557859 recvRequest recvRequest: sedang pada node : 6 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 6, forwarding from 0 to 1
+2.557859 recvRequest recvRequest: sedang pada node : 5 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 5, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 1 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 1, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 2 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 2, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 4 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 4, forwarding from 0 to 1
+2.556839  (1) - node 8 sending Route Request to node: 9
+2.557859 recvRequest recvRequest: sedang pada node : 6 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 6, forwarding from 0 to 1
+2.557859 recvRequest recvRequest: sedang pada node : 5 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 5, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 1 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 1, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 2 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 2, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 4 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 4, forwarding from 0 to 1
+2.556839  (1) - node 8 sending Route Request to node: 9
+2.557859 recvRequest recvRequest: sedang pada node : 6 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 6, forwarding from 0 to 1
+2.557859 recvRequest recvRequest: sedang pada node : 5 dengan broadcast id : 1 
+2.557859 forward: sedang pada node : 5, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 1 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 1, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 2 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 2, forwarding from 0 to 1
+2.557860 recvRequest recvRequest: sedang pada node : 4 dengan broadcast id : 1 
+2.557860 forward: sedang pada node : 4, forwarding from 0 to 1
